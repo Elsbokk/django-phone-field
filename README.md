@@ -1,4 +1,4 @@
-## The only difference in this fork is in the widget - no longer includes extension field.
+## The only difference in this fork is that the widget no longer includes a field for an extension.
 
 # django-phone-field
 Lightweight model and form field for phone numbers in Django
