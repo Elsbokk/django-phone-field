@@ -1,3 +1,5 @@
+## The only difference in this fork is in the widget - no longer includes extension field.
+
 # django-phone-field
 Lightweight model and form field for phone numbers in Django
 
